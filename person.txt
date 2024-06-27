@@ -1,3 +1,5 @@
 Employee
 Manager
 Consultor
+senior
+junior
