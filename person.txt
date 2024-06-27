@@ -1,2 +1,3 @@
 Employee
 Manager
+Consultor
